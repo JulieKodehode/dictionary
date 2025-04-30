@@ -1,5 +1,4 @@
 # Oversikt i JavaScript
-
 ## Innholdsfortegnelse
 
 - [Symboler](#Symboler)
