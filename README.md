@@ -2,7 +2,7 @@
 - [Symboler](#Symboler-Symbols)
 - [Datatyper](#Datatyper-Data-Types)
   - [Primitive datatyper](#Primitive-datatyper-Primitive-Data-Types)
-  - [Ikke-primitive datatyper](#Ikke-primitive-datatyper-Non-Primative-Data-Types)
+  - [Ikke-primitive datatyper](#Ikke-primitive-datatyper-Non-Primitive-Data-Types)
 - [Variabler](#Variabler-Variables)
 - [Funksjoner](#Funksjoner-Functions)
 - [DOM Manipulasjon](#DOM-Manipulasjon-DOM-Manipulation-Document-Object-Model-Manipulation)
