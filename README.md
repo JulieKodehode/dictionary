@@ -1,8 +1,8 @@
 # Oversikt i JavaScript
 - [Symboler](#Symboler-Symbols)
 - [Datatyper](#Datatyper-Data-Types)
-  - [Primitive datatyper](#Primitive-datatyer-Primitive-Data-Types)
-  - [Ikke-primitive datatyper](#Ikke-primitive-datatyer-Non-Primative-Data-Types)
+  - [Primitive datatyper](#Primitive-datatyper-Primitive-Data-Types)
+  - [Ikke-primitive datatyper](#Ikke-primitive-datatyper-Non-Primative-Data-Types)
 - [Variabler](#Variabler-Variables)
 - [Funksjoner](#Funksjoner-Functions)
 - [DOM Manipulasjon](#DOM-Manipulasjon-DOM-Manipulation-Document-Object-Model-Manipulation)
