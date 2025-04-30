@@ -1,12 +1,12 @@
 # Oversikt i JavaScript
 - [Symboler](#Symboler-Symbols)
-- [Datatyper](#Datatyper)
-  - [Primitive datatyper](#Primitive-datatyer)
-  - [Ikke-primitive datatyper](#Ikke-primitive-datatyer)
-- [Variabler](#Variabler)
-- [Funksjoner](#Funksjoner)
-- [DOM Manipulasjon](#DOM-Manipulasjon)
-- [Hendelseslytter](#Hendelseslytter)
+- [Datatyper](#Datatyper-Data-Types)
+  - [Primitive datatyper](#Primitive-datatyer-Primitive-Data-Types)
+  - [Ikke-primitive datatyper](#Ikke-primitive-datatyer-Non-Primative-Data-Types)
+- [Variabler](#Variabler-Variables)
+- [Funksjoner](#Funksjoner-Functions)
+- [DOM Manipulasjon](#DOM-Manipulasjon-DOM-Manipulation-Document-Object-Model-Manipulation)
+- [Hendelseslytter](#Hendelseslytter-Event-Listener)
 
 ## Symboler (Symbols)
 
