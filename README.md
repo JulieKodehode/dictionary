@@ -1,5 +1,5 @@
 # Oversikt i JavaScript
-- [Symboler](#Symboler)
+- [Symboler](#Symboler-(Symbols))
 - [Datatyper](#Datatyper)
   - [Primitive datatyper](#Primitive-datatyer)
   - [Ikke-primitive datatyper](#Ikke-primitive-datatyer)
