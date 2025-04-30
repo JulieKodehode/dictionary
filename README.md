@@ -1,6 +1,4 @@
 # Oversikt i JavaScript
-## Innholdsfortegnelse
-
 - [Symboler](#Symboler)
 - [Datatyper](#Datatyper)
   - [Primitive datatyper](#Primitive-datatyer)
