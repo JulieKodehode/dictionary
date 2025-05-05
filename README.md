@@ -1,6 +1,6 @@
 # Julies Guide to WebDev
 
-Dette er et kontinuerlig prosjekt og personlig kunnskapsbase som samler begreper, syntaks og strukturelle oversikter for tre sentrale teknologier i webutvikling: **HTML**, **CSS** og **JavaScript**.
+Dette er et kontinuerlig prosjekt som samler begreper, syntaks og strukturelle oversikter for tre sentrale teknologier i webutvikling: **HTML**, **CSS** og **JavaScript**.  
 
 ## Tilgjengelige oversikter
 
