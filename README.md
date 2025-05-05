@@ -13,4 +13,5 @@ Dette er et kontinuerlig prosjekt som samler begreper, syntaks og strukturelle o
 ---
 >
 > Dette er et levende dokument som oppdateres når jeg finner bedre forklaringer eller får tid til å legge til mer.
+>**Gi gjerne prosjektet en stjerne** for å lagre det i dine stjernemerkede repos for å finne det igjen senere!
 >
